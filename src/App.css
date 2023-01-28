@@ -43,6 +43,6 @@ html, body {
 	height: 100vh;
 }
 .swiper{height: 100vh;}
-.swiper-backface-hidden .swiper-slide {
+.swiper-slide {
     overflow: hidden;
 }
